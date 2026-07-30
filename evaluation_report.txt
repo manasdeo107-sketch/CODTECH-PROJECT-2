@@ -1,0 +1,5 @@
+Evaluation over 2000 games (greedy policy vs random opponent)
+------------------------------------------------------------
+Wins:    1976  ( 98.8%)
+Draws:     24  (  1.2%)
+Losses:     0  (  0.0%)
